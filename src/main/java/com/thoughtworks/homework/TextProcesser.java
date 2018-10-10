@@ -21,7 +21,7 @@ public class TextProcesser {
 				i++;
 
 			}
-
+			
 			// 取字符
 			String word = "";
 			int beforeline = line;
